@@ -1,3 +1,5 @@
 hi
 hello
-I am learning GIT
+I am learning GIT now
+now
+new
